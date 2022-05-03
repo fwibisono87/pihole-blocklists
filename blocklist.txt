@@ -9,3 +9,17 @@ a-ads.com
 adskeeper.com
 trmobc.com
 2mdn.net
+adpushup.com
+adrecover.com
+adtago.s3.amazonaws.com
+affiliationjs.s3.amazonaws.com
+freshmarketer.com
+ads.pinterest.com
+log.pinterest.com
+ads-dev.pinterest.com
+analytics.pinterest.com
+widgets.pinterest.com
+ads.youtube.com
+analytics.tiktok.com
+ads.tiktok.com
+ads.yap.yahoo.com
